@@ -50,6 +50,6 @@ I'm a passionate **Python Developer** with a strong focus on building RESTful AP
 
 ### Profile views counter 👁️‍🗨️
 
-[![Oleksandr Doronin profile views](https://u8views.com/api/v1/github/profiles/155989989/views/day-week-month-total-count.svg)](https://u8views.com/github/OleksandrDoronin)
+[![Oleksandr Doronin profile views](https://u8views.com/api/v1/github/profiles/155989989/views/total-count.svg)](https://u8views.com/github/OleksandrDoronin)
 
 ### **Let’s Build Something Amazing Together!** 🚀
