@@ -1,6 +1,8 @@
 ### Hi, I'm **Oleksandr Doronin** 👋  
 
-I'm a passionate **Python Developer** with a strong focus on building RESTful APIs using **Django** and **FastAPI**. I pride myself on writing clean, maintainable code and continuously strive to learn and grow.  
+## 🧑‍💻 About Me  
+I'm a motivated Python Backend Developer with 1+ years of experience crafting scalable REST APIs using FastAPI and Django.  
+I enjoy writing clean, maintainable code and continuously learning new technologies to deliver reliable backend solutions.
 
 📩 **Let’s Connect!**  
 
@@ -11,8 +13,8 @@ I'm a passionate **Python Developer** with a strong focus on building RESTful AP
   <a href="https://github.com/OleksandrDoronin">
     <img src="https://img.shields.io/badge/-OleksandrDoronin-333?style=flat&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="mailto:oleksandr.doron@gmail.com">
-    <img src="https://img.shields.io/badge/-oleksandr.doron@gmail.com-c0392b?style=flat&logo=gmail&logoColor=white" alt="Email">
+  <a href="mailto:oleksandrd.developer@gmail.com">
+    <img src="https://img.shields.io/badge/-oleksandrd.developer@gmail.com-c0392b?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
@@ -37,19 +39,23 @@ I'm a passionate **Python Developer** with a strong focus on building RESTful AP
 
 ### **GitHub Stats** 📈
 
-<div style="display: flex; justify-content: flex-start; width: 100%;">
+<div style="display: flex; justify-content: flex-start; gap: 10px; max-width: 700px; width: 100%;">
   <a href="https://github.com/OleksandrDoronin">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OleksandrDoronin&theme=nord_bright" style="max-width: 30%; margin-right: 10px;" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OleksandrDoronin&theme=nord_bright" style="max-width: 48%;" />
   </a>
   <a href="https://github.com/OleksandrDoronin">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OleksandrDoronin&theme=nord_bright" style="max-width: 30%;" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OleksandrDoronin&theme=nord_bright" style="max-width: 48%;" />
   </a>
 </div>
 
 ---
 
-### Profile views counter 👁️‍🗨️
+### Profile Views 👁️‍🗨️  
+Track how many people have viewed my GitHub profile.
 
 [![Oleksandr Doronin profile views](https://u8views.com/api/v1/github/profiles/155989989/views/total-count.svg)](https://u8views.com/github/OleksandrDoronin)
 
-### **Let’s Build Something Amazing Together!** 🚀
+---
+
+### Let’s Build Something Amazing Together! 🚀  
+Feel free to reach out to discuss projects, ideas, or opportunities.
